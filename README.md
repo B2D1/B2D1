@@ -4,8 +4,10 @@
 
 I'm writing 💻 React with Typescript.
 
-Sometimes use NodeJS.
+Sometimes use 💡 NodeJS.
 
-I'm learning 💡 Rust.
+I'm learning 📖 Rust.
 
-Welcome to visit my 🌐 [blog](https://www.baobangdong.cn/).
+I like to design 🎨 that why I keen on Front-end
+
+Welcome to visit my ✍️ [blog](https://www.baobangdong.cn/).

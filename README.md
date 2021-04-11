@@ -8,6 +8,4 @@ I'm writing 💻 React with Typescript.
 
 Sometimes use💡NodeJS.
 
-I'm learning 📖 Rust.
-
 Welcome to visit my ✍️ [blog](https://www.baobangdong.cn/).
